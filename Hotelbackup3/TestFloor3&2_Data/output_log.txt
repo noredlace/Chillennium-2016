@@ -1,0 +1,33 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\New folder\Hotel\TestFloor3&2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.528690 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 11d0 -> priority: 1 
+  Thread -> id: 3804 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.354263 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 0.146260 ms (FindLiveObjects: 0.025614 ms CreateObjectMapping: 0.011526 ms MarkObjects: 0.095543 ms  DeleteObjects: 0.003329 ms)
+

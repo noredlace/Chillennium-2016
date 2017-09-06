@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 345efa325a6ecf44fb33382e7439e214
+timeCreated: 1474754301
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube10
+    100006: pCube11
+    100008: pCube12
+    100010: pCube13
+    100012: pCube14
+    100014: pCube15
+    100016: pCube16
+    100018: pCube17
+    100020: pCube18
+    100022: pCube19
+    100024: pCube2
+    100026: pCube20
+    100028: pCube21
+    100030: pCube3
+    100032: pCube4
+    100034: pCube5
+    100036: pCube6
+    100038: pCube7
+    100040: pCube8
+    100042: polySurface1
+    100044: polySurface10
+    100046: polySurface10 1
+    100048: polySurface11
+    100050: polySurface12
+    100052: polySurface13
+    100054: polySurface14
+    100056: polySurface14 1
+    100058: polySurface15
+    100060: polySurface16
+    100062: polySurface2
+    100064: polySurface3
+    100066: polySurface4
+    100068: polySurface4 1
+    100070: polySurface5
+    100072: polySurface6
+    100074: polySurface7
+    100076: polySurface7 1
+    100078: polySurface8
+    100080: polySurface9
+    100082: smallBots:mainRobot:pCube1
+    100084: smallBots:mainRobot:pCube10
+    100086: smallBots:mainRobot:pCube11
+    100088: smallBots:mainRobot:pCube2
+    100090: smallBots:mainRobot:pCube3
+    100092: smallBots:mainRobot:pCube4
+    100094: smallBots:mainRobot:pCube9
+    100096: smallBots:mainRobot:transform1
+    100098: smallBots:mainRobot:transform2
+    100100: smallBots:mainRobot:transform3
+    100102: smallBots:mainRobot:transform4
+    100104: smallBots:mainRobot:transform5
+    100106: smallBots:mainRobot:transform6
+    100108: smallBots:pCube11
+    100110: smallBots:pCube12
+    100112: smallBots:polySurface1
+    100114: smallBots:polySurface2
+    100116: smallBots:polySurface3
+    100118: smallBots:polySurface4
+    100120: smallBots:polySurface4 1
+    100122: smallBots:polySurface5
+    100124: smallBots:polySurface6
+    100126: smallBots:transform1
+    100128: smallBots:transform2
+    100130: smallBots:transform3
+    100132: smallBots:transform4
+    100134: smallBots:transform5
+    100136: smallBots:transform6
+    100138: smallBots:transform7
+    100140: smallBots:transform8
+    100142: smallBots:transform9
+    100144: transform1
+    100146: transform10
+    100148: transform11
+    100150: transform12
+    100152: transform13
+    100154: transform14
+    100156: transform15
+    100158: transform16
+    100160: transform17
+    100162: transform18
+    100164: transform19
+    100166: transform2
+    100168: transform20
+    100170: transform21
+    100172: transform22
+    100174: transform23
+    100176: transform24
+    100178: transform25
+    100180: transform26
+    100182: transform27
+    100184: transform28
+    100186: transform29
+    100188: transform3
+    100190: transform30
+    100192: transform31
+    100194: transform32
+    100196: transform33
+    100198: transform34
+    100200: transform35
+    100202: transform36
+    100204: transform37
+    100206: transform38
+    100208: transform4
+    100210: transform5
+    100212: transform6
+    100214: transform7
+    100216: transform8
+    100218: transform9
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube10
+    400006: pCube11
+    400008: pCube12
+    400010: pCube13
+    400012: pCube14
+    400014: pCube15
+    400016: pCube16
+    400018: pCube17
+    400020: pCube18
+    400022: pCube19
+    400024: pCube2
+    400026: pCube20
+    400028: pCube21
+    400030: pCube3
+    400032: pCube4
+    400034: pCube5
+    400036: pCube6
+    400038: pCube7
+    400040: pCube8
+    400042: polySurface1
+    400044: polySurface10
+    400046: polySurface10 1
+    400048: polySurface11
+    400050: polySurface12
+    400052: polySurface13
+    400054: polySurface14
+    400056: polySurface14 1
+    400058: polySurface15
+    400060: polySurface16
+    400062: polySurface2
+    400064: polySurface3
+    400066: polySurface4
+    400068: polySurface4 1
+    400070: polySurface5
+    400072: polySurface6
+    400074: polySurface7
+    400076: polySurface7 1
+    400078: polySurface8
+    400080: polySurface9
+    400082: smallBots:mainRobot:pCube1
+    400084: smallBots:mainRobot:pCube10
+    400086: smallBots:mainRobot:pCube11
+    400088: smallBots:mainRobot:pCube2
+    400090: smallBots:mainRobot:pCube3
+    400092: smallBots:mainRobot:pCube4
+    400094: smallBots:mainRobot:pCube9
+    400096: smallBots:mainRobot:transform1
+    400098: smallBots:mainRobot:transform2
+    400100: smallBots:mainRobot:transform3
+    400102: smallBots:mainRobot:transform4
+    400104: smallBots:mainRobot:transform5
+    400106: smallBots:mainRobot:transform6
+    400108: smallBots:pCube11
+    400110: smallBots:pCube12
+    400112: smallBots:polySurface1
+    400114: smallBots:polySurface2
+    400116: smallBots:polySurface3
+    400118: smallBots:polySurface4
+    400120: smallBots:polySurface4 1
+    400122: smallBots:polySurface5
+    400124: smallBots:polySurface6
+    400126: smallBots:transform1
+    400128: smallBots:transform2
+    400130: smallBots:transform3
+    400132: smallBots:transform4
+    400134: smallBots:transform5
+    400136: smallBots:transform6
+    400138: smallBots:transform7
+    400140: smallBots:transform8
+    400142: smallBots:transform9
+    400144: transform1
+    400146: transform10
+    400148: transform11
+    400150: transform12
+    400152: transform13
+    400154: transform14
+    400156: transform15
+    400158: transform16
+    400160: transform17
+    400162: transform18
+    400164: transform19
+    400166: transform2
+    400168: transform20
+    400170: transform21
+    400172: transform22
+    400174: transform23
+    400176: transform24
+    400178: transform25
+    400180: transform26
+    400182: transform27
+    400184: transform28
+    400186: transform29
+    400188: transform3
+    400190: transform30
+    400192: transform31
+    400194: transform32
+    400196: transform33
+    400198: transform34
+    400200: transform35
+    400202: transform36
+    400204: transform37
+    400206: transform38
+    400208: transform4
+    400210: transform5
+    400212: transform6
+    400214: transform7
+    400216: transform8
+    400218: transform9
+    2300000: smallBots:polySurface4
+    3300000: smallBots:polySurface4
+    4300000: smallBots:polySurface4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
